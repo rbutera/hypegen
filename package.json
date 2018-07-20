@@ -1,0 +1,30 @@
+{
+  "name": "hypegen",
+  "version": "0.0.1",
+  "description": "Hype Generator - landing page starter kit designed to get your ideas off the ground",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raigasm/hypegen.git"
+  },
+  "keywords": [
+    "Landing",
+    "Page",
+    "Starter",
+    "Yeoman",
+    "React",
+    "RxJS",
+    "Redux",
+    "Reactive",
+    "JSX"
+  ],
+  "author": "Rai Butera",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/Raigasm/hypegen/issues"
+  },
+  "homepage": "https://github.com/Raigasm/hypegen#readme"
+}
