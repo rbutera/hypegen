@@ -6,8 +6,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Made with :heart: by [Rai Butera](https://rbutera.com) / RSTLSS.org for you & your next big idea.
-
 **Hypegen** (aka. _Hype Generator_) - a landing page starter kit designed to get your ideas off the ground.
 
 Getting a landing page up is often a great first-move for any new project.
@@ -15,6 +13,8 @@ Getting a landing page up is often a great first-move for any new project.
 **Hypegen apps** are simple, full-stack, open-source starting point for your business/project that use the best frameworks/libraries/tools currently available for building a mobile-first modern web application.
 
 Setup and customization is quick and easy. Hypegen apps can be hosted on a VPS / via Docker (see instructions towards the end of this README).
+
+Made with :heart: by [Rai Butera](https://rbutera.com) / RSTLSS.org for you & your next big idea.
 
 ## :desktop_computer: DEMO (TODO)
 
