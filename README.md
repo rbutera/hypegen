@@ -1,4 +1,4 @@
-![hypegen](/logo/hypegen-logo.png)
+[![hypegen](/logo/hypegen-logo.png)](#)
 
 # Hypegen - a "Hello World" for Startups and Projects
 
@@ -51,6 +51,7 @@ A custom MERN stack.
 ### Testing
 
 `npm run test frontend`
+
 `npm run test backend`
 
 ### 🖌 Developing and Customization
