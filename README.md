@@ -28,11 +28,11 @@ A custom MERN stack.
 
 ### :iphone: Front-End
 
-- Bootstrap
 - React
 - Redux
 - RxJS
-- GatsbyJS?
+- Bulma
+- GatsbyJS
 
 ### :cloud: :earth_asia: Back-End
 
@@ -42,19 +42,21 @@ A custom MERN stack.
 - MongoDB
 - Mailchimp / Mailinator
 
-## ℹ️ Instructions: Using Hypegen
+# ℹ️ Instructions: Using Hypegen
 
-### Installation
+## :wrench: Installation
 
-### Creating a Landing Page
+### :sparkles: :iphone: Installing the Front End: Creating a Landing Page
 
-### Testing
+### :sparkles: :peach: Installing the Back End
+
+### :warning: Testing
 
 `npm run test frontend`
 
 `npm run test backend`
 
-### 🖌 Developing and Customization
+## 🖌 Developing and Customization
 
 Customization pointers coming soon.
 
@@ -70,7 +72,7 @@ VPS instructions coming soon.
 
 Docker instructions coming soon.
 
-## Contribution
+# :muscle: Contributing to the Hypegen project
 
 Accepting pull requests / application to become contributors to the project.
 
