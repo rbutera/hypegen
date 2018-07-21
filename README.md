@@ -1,4 +1,4 @@
-[![hypegen](/logo/hypegen-logo-dark.svg)](#)
+[![hypegen](/logo/hypegen-logo-dark@320px.png)](#)
 
 # Hypegen - a "Hello World" for Startups and Projects
 
