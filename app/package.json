@@ -29,6 +29,7 @@
     "test": "jest"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.1.1",
     "@storybook/addon-storyshots": "^3.4.3",
     "@storybook/addon-viewport": "^3.4.0",
     "@storybook/react": "^3.4.0",
