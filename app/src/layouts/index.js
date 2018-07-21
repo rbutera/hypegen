@@ -1,20 +1,20 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import Helmet from 'react-helmet'
+import React from 'react';
+import PropTypes from 'prop-types';
+import Helmet from 'react-helmet';
 
-import Header from '../components/header'
-import './index.css'
+import Header from '../components/Header';
+import './index.scss';
 
-const Layout = ({ children, data }) => (
+const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title={data.site.siteMetadata.title}
+      title="Gatsby Starter Bulma Storybook"
       meta={[
         { name: 'description', content: 'Sample' },
         { name: 'keywords', content: 'sample, something' },
       ]}
     />
-    <Header siteTitle={data.site.siteMetadata.title} />
+    <Header />
     <div
       style={{
         margin: '0 auto',
@@ -26,20 +26,10 @@ const Layout = ({ children, data }) => (
       {children()}
     </div>
   </div>
-)
+);
 
-Layout.propTypes = {
+TemplateWrapper.propTypes = {
   children: PropTypes.func,
-}
+};
 
-export default Layout
-
-export const query = graphql`
-  query SiteTitleQuery {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`
+export default TemplateWrapper;
