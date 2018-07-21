@@ -1,18 +1,13 @@
 import React from 'react';
-import Link from 'gatsby-link';
-
-import styles from './Header.module.scss';
+// import Link from 'gatsby-link';
+// import styles from './Header.module.scss';
 
 const Header = () => (
-  <div className={styles.header}>
-    <div className={styles.inner}>
-      <h1 className={'title is-2 has-text-weight-bold'}>
-        <Link to="/" className={styles.link}>
-          Landing Page
-        </Link>
-      </h1>
+  <nav className="navbar" role="navigation" aria-label="main navigation">
+    <div className="navbar-brand">
+      <h1 className="title">Hypegen</h1>
     </div>
-  </div>
+  </nav>
 );
 
 export default Header;
