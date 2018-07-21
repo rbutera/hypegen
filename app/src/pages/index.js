@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 
 const IndexPage = () => (
-  <section className="hero is-dark is-fullheight">
+  <section className="hero is-fullheight is-black">
     <div className="hero-body">
       <div className="container has-text-centered">
         <div className="column is-6 is-offset-3">
@@ -13,18 +13,15 @@ const IndexPage = () => (
           </h2>
           <div className="box">
             <div className="field is-grouped">
-              <div className="control has-icons-left has-icons-right is-expanded">
+              <div className="control is-expanded">
                 <input
-                  className="input is-large"
+                  className="input is-medium"
                   type="text"
-                  placeholder="Enter your email"
+                  placeholder="Email"
                 />
-                <span className="icon is-large is-left">
-                  <i className="fas fa-envelope" />
-                </span>
               </div>
               <div className="control">
-                <a className="button is-large is-primary is-rounded">
+                <a className="button is-medium is-primary is-rounded">
                   Notify Me
                 </a>
               </div>

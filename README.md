@@ -1,4 +1,4 @@
-[![hypegen](/logo/hypegen-logo.png)](#)
+[![hypegen](/logo/hypegen-logo-dark.svg)](#)
 
 # Hypegen - a "Hello World" for Startups and Projects
 
@@ -34,7 +34,7 @@ A custom MERN stack.
 - Bulma
 - GatsbyJS
 
-### :cloud: :earth_asia: Back-End
+### :cloud: :earth_casia: Back-End
 
 - nginx
 - Node.js
