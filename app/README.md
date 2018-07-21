@@ -1,7 +1,26 @@
-# Hypegen Front-End
+# gatsby-starter-default
+The default Gatsby starter.
 
-**NB**: install `yarn` and node js first.. then run `npm install` in this directory
+For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
-To (re)build run `npm run build`
+## Install
 
-To run a dev server with livereload etc. `yarn run dev` - the dev server will run in port 8080 by default
+Make sure that you have the Gatsby CLI program installed:
+```sh
+npm install --global gatsby-cli
+```
+
+And run from your CLI:
+```sh
+gatsby new gatsby-example-site
+```
+
+Then you can run it by:
+```sh
+cd gatsby-example-site
+gatsby develop
+```
+
+## Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
